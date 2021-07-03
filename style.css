@@ -1,0 +1,32 @@
+.mainBody{
+    display:flex;
+    text-align: center
+    
+    
+}
+
+.grid{
+    border: 2px solid black;
+     border-radius: 50px;
+      display: flex;
+       flex-wrap: wrap; 
+       margin: auto;
+}
+
+.origami{
+
+    border-radius: 20px; 
+    background-color: rgb(150, 236, 203); 
+    width: 310px; 
+    font-family: fantasy; 
+    padding-left: 10%; 
+    margin-left: 10%; 
+    margin-bottom: 10%; 
+    margin-top: 5%;
+
+}
+
+body{
+    background-color: grey;
+    margin: 0px;
+}
